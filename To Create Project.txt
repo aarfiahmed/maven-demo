@@ -1,0 +1,1 @@
+mvn archetype:generate   -DgroupId=com.aarfi  -DartifactId=com.app.security   -DarchetypeArtifactId=maven-archetype-quickstart  -DinteractiveMode=false
